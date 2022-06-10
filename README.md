@@ -31,6 +31,6 @@ TBD
 | 140    | 200  | Xinyue Ye          | Summary and Next-Step                      
 
 
-![the logo of The Texas A&M Institute of Data Science](tamuids.png "tamuids")(https://tamids.tamu.edu/)
+![[the logo of The Texas A&M Institute of Data Science](https://tamids.tamu.edu/)](tamuids.png "tamuids")
 
-![the logo of The College of Architecture of TAMU](tamuarch.png "tamuarch")(https://tamids.tamu.edu/)
+![[the logo of The College of Architecture of TAMU](https://arch.tamu.edu/)](tamuarch.png "tamuarch")
