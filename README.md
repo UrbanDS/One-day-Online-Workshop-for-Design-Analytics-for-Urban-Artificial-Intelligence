@@ -10,6 +10,7 @@ Advancements in location-aware technology, information and communication technol
 TBD
 
 ## Agenda
+
 | Agenda |      |                    | Talk Title                                                                                                             |
 | ------ | ---- | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | 900    | 910  | Xinyue Ye          | Introdcution                                                                                                           |
@@ -28,3 +29,6 @@ TBD
 | 100    | 120  | Bahar Dadashova    | Building Equitable Safe Streets for All: Data-Driven Approach and Computational Tools                                  |
 | 120    | 140  | Jason Wu           | Smart Workzone                                                                                                         |
 | 140    | 200  | Xinyue Ye          | Summary and Next-Step                      
+
+![the logo of The Texas A&M Institute of Data Science](/tamuids.png "tamuids")
+![the logo of The College of Architecture of TAMU](/tamuarch.png "tamuarch")
