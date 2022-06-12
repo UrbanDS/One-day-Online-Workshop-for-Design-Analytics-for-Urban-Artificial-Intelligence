@@ -11,23 +11,25 @@ TBD
 
 ## Agenda
 
-| Agenda |      |                    | Talk Title                                                                                                             |
-| ------ | ---- | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| 900    | 910  | Xinyue Ye          | Introdcution                                                                                                           |
-| 910    | 920  | Nick Duffield      | Data Science at TAMU                                                                                                   |
-| 920    | 930  | Shannnon Van Zandt | COA at TAMU                                                                                                            |
-| 930    | 950  | Galen Newman       | Immersive Virtual Reality in Planning and Landscape Architecture                                                       |
-| 950    | 1010 | Fan Zhang          | Urban Visual Intelligence: Studying Cities with AI and Street-level Imagery                                            |
-| 1010   | 1030 | Youngjib Ham       | Smart Construction                                                                                                     |
-| 1030   | 1050 | Zhe Zhang          | Urban computing cyberinfrastructure                                                                                    |
-| 1050   | 1110 | Xiaofeng Nie       | Joint initial dispatching of official responders and registered volunteers during catastrophic mass-casualty incidents |
-| 1110   | 1130 | David Retchless    | AR/VR for flooding/disaster response                                                                                   |
-| 1130   | 1150 | Bo Zhao            | Becoming Better Allies: A Humanistic Reflection Upon Urban Artificial Intelligence                                     |
-| 1150   | 1210 | break              |                                                                                                                        |
-| 1210   | 1230 | Wenwen Li          | Real-time GeoAI for Smart Cities                                                                                       |
-| 1230   | 100  | Chao Fan           | Integrated Intelligence for Design of Resilient and Equitable Urban Spaces                                             |
-| 100    | 120  | Bahar Dadashova    | Building Equitable Safe Streets for All: Data-Driven Approach and Computational Tools                                  |
-| 120    | 140  | Jason Wu           | Smart Workzone                                                                                                         |
+| Time |      | Name               | Affiliation                                           | Talk Title                                                                                                             |
+| ---- | ---- | ------------------ | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 900  | 910  | Nick Duffield      | Electrical & Computer Engineering/TAMU                | Data Science at TAMU                                                                                                   |
+| 910  | 920  | Shannnon Van Zandt | Architecture/TAMU                                     | COA at TAMU                                                                                                            |
+| 920  | 930  | Xinyue Ye          | Landscape Architecture and Urban Planning/TAMU        | Introduction of Workshop and Agenda                                                                                    |
+| 930  | 950  | Galen Newman       | Landscape Architecture and Urban Planning/TAMU        | Digital and Virtual Applications for Urban Data Analytics and Geodesign                                                |
+| 950  | 1010 | Fan Zhang          | MIT                                                   | Urban Visual Intelligence: Studying Cities with AI and Street-level Imagery                                            |
+| 1010 | 1030 | Xiaofeng Nie       | Engineering Technology & Industrial Distribution/TAMU | Joint initial dispatching of official responders and registered volunteers during catastrophic mass-casualty incidents |
+| 1030 | 1050 | Zhe Zhang          | Geography/TAMU                                        | Urban computing cyberinfrastructure                                                                                    |
+| 1050 | 1110 | Youngjib Ham       | Construction Science/TAMU                             | Digital Twin for Smart City Resilience and Age-friendly Communities                                                    |
+| 1110 | 1130 | David Retchless    | Marine and Coastal Environmental Science/TAMUG        | A Geovisual Design Framework for Urban Storm Surge Hazardscapes                                                        |
+| 1130 | 1150 | Bo Zhao            | University of Washington                              | Becoming Better Allies: A Humanistic Reflection Upon Urban Artificial Intelligence                                     |
+| 1150 | 1210 | short lunch break  |                                                       |                                                                                                                        |
+| 1210 | 1230 | Wenwen Li          | Arizona State University                              | Real-time GeoAI for Smart Cities                                                                                       |
+| 1230 | 100  | Chao Fan           | Civil and Environmental Engineering/TAMU              | Integrated Intelligence for Design of Resilient and Equitable Urban Spaces                                             |
+| 100  | 120  | Bahar Dadashova    | Texas A&M Transportation Institute                    | Building Equitable Safe Streets for All: Data-Driven Approach and Computational Tools                                  |
+| 120  | 140  | Jason Wu           | Texas A&M Transportation Institute                    | Leveraging Emerging Data and AI Technologies to Enhance Transportation Infrastructures                                 |
+| 140  | 200  | Mark Fossett       | Sociology/TAMU                                        | fine-scale data and social science research                                                                            |
+| 200  | 220  | Xinyue Ye          | Landscape Architecture and Urban Planning/TAMU        | Summary and Next-Step                                                                                                  |
 | 140    | 200  | Xinyue Ye          | Summary and Next-Step                      
 
 
