@@ -29,8 +29,7 @@ TBD
 | 100  | 120  | Bahar Dadashova    | Texas A&M Transportation Institute                    | Building Equitable Safe Streets for All: Data-Driven Approach and Computational Tools                                  |
 | 120  | 140  | Jason Wu           | Texas A&M Transportation Institute                    | Leveraging Emerging Data and AI Technologies to Enhance Transportation Infrastructures                                 |
 | 140  | 200  | Mark Fossett       | Sociology/TAMU                                        | Fine-scale Data and Social Science Research                                                                            |
-| 200  | 220  | Xinyue Ye          | Landscape Architecture and Urban Planning/TAMU        | Summary and Next-Step                                                                                                  |
-| 140    | 200  | Xinyue Ye          | Summary and Next-Step                      
+| 200  | 220  | Xinyue Ye          | Landscape Architecture and Urban Planning/TAMU        | Summary and Next-Step                                                                                                  |               
 
 
 ![[the logo of The Texas A&M Institute of Data Science](https://tamids.tamu.edu/)](tamuids.png "tamuids")
