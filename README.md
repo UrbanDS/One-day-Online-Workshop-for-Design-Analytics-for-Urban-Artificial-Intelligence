@@ -1,4 +1,4 @@
-# One-day Online Workshop for Design & Analytics for Urban Artificial Intelligence
+# Online Workshop of Design & Analytics for Urban Artificial Intelligence @ Texas A&M
 
 ## Workshop summary
 Advancements in location-aware technology, information and communication technology, and mobile technology during the past two decades have transformed the focus and need for urban research from mostly static assessments to multi-scalar assessments that span spatial, temporal, and dynamic relationships and integrate human behaviors across various environments (natural, built, and virtual). Communities can increase cyber, social, and physical resilience based on Urban Artificial Intelligence (Urban AI). However, silos within design, social, and engineering sciences as well as yawning gaps between research and practice have increased difficulties in achieving sustainable, equitable, and resilient development. This workshop aims to develop an agenda to promote urban artificial intelligence-based algorithms and tools to visualize, analyze, and design cities. This will promote the collaboration in data, algorithms, and outreach between The Texas A&M Institute of Data Science and urban research communities on campus and beyond. Most importantly, this will be a convergence accelerator for the TAMU system to increase external funding in urban climate science, human mobility, and environmental informatics. The effort will bolster partnerships between academics, local residents/stakeholders, and industries/professionals to stimulate human-centered research that strengthens America’s infrastructure.
@@ -18,8 +18,8 @@ TBD
 | 920  | 930  | Xinyue Ye          | Landscape Architecture and Urban Planning/TAMU        | Introduction of Workshop and Agenda                                                                                    |
 | 930  | 950  | Galen Newman       | Landscape Architecture and Urban Planning/TAMU        | Digital and Virtual Applications for Urban Data Analytics and Geodesign                                                |
 | 950  | 1010 | Fan Zhang          | MIT                                                   | Urban Visual Intelligence: Studying Cities with AI and Street-level Imagery                                            |
-| 1010 | 1030 | Xiaofeng Nie       | Engineering Technology & Industrial Distribution/TAMU | Joint initial dispatching of official responders and registered volunteers during catastrophic mass-casualty incidents |
-| 1030 | 1050 | Zhe Zhang          | Geography/TAMU                                        | Urban computing cyberinfrastructure                                                                                    |
+| 1010 | 1030 | Xiaofeng Nie       | Engineering Technology & Industrial Distribution/TAMU | Joint Unitial Dispatching of Official Responders and Registered Volunteers during catastrophic mass-casualty incidents |
+| 1030 | 1050 | Zhe Zhang          | Geography/TAMU                                        | Urban Computing Cyberinfrastructure                                                                                    |
 | 1050 | 1110 | Youngjib Ham       | Construction Science/TAMU                             | Digital Twin for Smart City Resilience and Age-friendly Communities                                                    |
 | 1110 | 1130 | David Retchless    | Marine and Coastal Environmental Science/TAMUG        | A Geovisual Design Framework for Urban Storm Surge Hazardscapes                                                        |
 | 1130 | 1150 | Bo Zhao            | University of Washington                              | Becoming Better Allies: A Humanistic Reflection Upon Urban Artificial Intelligence                                     |
@@ -28,7 +28,7 @@ TBD
 | 1230 | 100  | Chao Fan           | Civil and Environmental Engineering/TAMU              | Integrated Intelligence for Design of Resilient and Equitable Urban Spaces                                             |
 | 100  | 120  | Bahar Dadashova    | Texas A&M Transportation Institute                    | Building Equitable Safe Streets for All: Data-Driven Approach and Computational Tools                                  |
 | 120  | 140  | Jason Wu           | Texas A&M Transportation Institute                    | Leveraging Emerging Data and AI Technologies to Enhance Transportation Infrastructures                                 |
-| 140  | 200  | Mark Fossett       | Sociology/TAMU                                        | fine-scale data and social science research                                                                            |
+| 140  | 200  | Mark Fossett       | Sociology/TAMU                                        | Fine-scale Data and Social Science Research                                                                            |
 | 200  | 220  | Xinyue Ye          | Landscape Architecture and Urban Planning/TAMU        | Summary and Next-Step                                                                                                  |
 | 140    | 200  | Xinyue Ye          | Summary and Next-Step                      
 
