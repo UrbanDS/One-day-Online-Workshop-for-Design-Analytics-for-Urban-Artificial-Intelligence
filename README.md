@@ -4,7 +4,7 @@
 Advancements in location-aware technology, information and communication technology, and mobile technology during the past two decades have transformed the focus and need for urban research from mostly static assessments to multi-scalar assessments that span spatial, temporal, and dynamic relationships and integrate human behaviors across various environments (natural, built, and virtual). Communities can increase cyber, social, and physical resilience based on Urban Artificial Intelligence (Urban AI). However, silos within design, social, and engineering sciences as well as yawning gaps between research and practice have increased difficulties in achieving sustainable, equitable, and resilient development. This workshop aims to develop an agenda to promote urban artificial intelligence-based algorithms and tools to visualize, analyze, and design cities. This will promote the collaboration in data, algorithms, and outreach between The Texas A&M Institute of Data Science and urban research communities on campus and beyond. Most importantly, this will be a convergence accelerator for the TAMU system to increase external funding in urban climate science, human mobility, and environmental informatics. The effort will bolster partnerships between academics, local residents/stakeholders, and industries/professionals to stimulate human-centered research that strengthens America’s infrastructure.
 
 ## Time
-9am-2pm CT on June 24 (Friday) 2022
+9am-3pm CT on June 24 (Friday) 2022
 
 ## Zoom
 TBD
