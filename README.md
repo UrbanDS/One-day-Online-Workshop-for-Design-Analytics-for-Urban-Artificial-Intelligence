@@ -13,23 +13,23 @@ TBD
 
 | Time |      | Name               | Affiliation                                           | Talk Title                                                                                                             |
 | ---- | ---- | ------------------ | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 900  | 910  | Nick Duffield      | Electrical & Computer Engineering/TAMU                | Data Science at TAMU                                                                                                   |
-| 910  | 920  | Shannnon Van Zandt | Architecture/TAMU                                     | COA at TAMU                                                                                                            |
-| 920  | 930  | Xinyue Ye          | Landscape Architecture and Urban Planning/TAMU        | Introduction of Workshop and Agenda                                                                                    |
-| 930  | 950  | Galen Newman       | Landscape Architecture and Urban Planning/TAMU        | Digital and Virtual Applications for Urban Data Analytics and Geodesign                                                |
-| 950  | 1010 | Fan Zhang          | MIT                                                   | Urban Visual Intelligence: Studying Cities with AI and Street-level Imagery                                            |
+| 900  | 910  | [Nick Duffield](https://engineering.tamu.edu/electrical/profiles/duffield-nick.html)      | Electrical & Computer Engineering/TAMU                | Data Science at TAMU                                                                                                   |
+| 910  | 920  | [Shannnon Van Zandt](https://www.arch.tamu.edu/staff/shannon-s-van-zandt-aicp/) | Architecture/TAMU                                     | COA at TAMU                                                                                                            |
+| 920  | 930  | [Xinyue Ye](https://www.arch.tamu.edu/staff/xinyue-ye/)          | Landscape Architecture & Urban Planning/TAMU        | Introduction of Workshop and Agenda                                                                                    |
+| 930  | 950  | [Galen Newman](https://www.arch.tamu.edu/staff/galen-d-newman/)       | Landscape Architecture & Urban Planning/TAMU        | Digital and Virtual Applications for Urban Data Analytics and Geodesign                                                |
+| 950  | 1010 | [Fan Zhang](https://scholar.google.com/citations?user=dc1TzLoAAAAJ)          | MIT                                                   | Urban Visual Intelligence: Studying Cities with AI and Street-level Imagery                                            |
 | 1010 | 1030 | Xiaofeng Nie       | Engineering Technology & Industrial Distribution/TAMU | Joint Unitial Dispatching of Official Responders and Registered Volunteers during catastrophic mass-casualty incidents |
-| 1030 | 1050 | Zhe Zhang          | Geography/TAMU                                        | Urban Computing Cyberinfrastructure                                                                                    |
+| 1030 | 1050 | Zhe Zhang          | Geography/TAMU                                        | Urban Computing Cyberinfrastructure：Visualizing Human Sentiment Using Social Media and Augmented Reality                                                                                    |
 | 1050 | 1110 | Youngjib Ham       | Construction Science/TAMU                             | Digital Twin for Smart City Resilience and Age-friendly Communities                                                    |
-| 1110 | 1130 | David Retchless    | Marine and Coastal Environmental Science/TAMUG        | A Geovisual Design Framework for Urban Storm Surge Hazardscapes                                                        |
+| 1110 | 1130 | David Retchless    | Marine & Coastal Environmental Science/TAMUG        | A Geovisual Design Framework for Urban Storm Surge Hazardscapes                                                        |
 | 1130 | 1150 | Bo Zhao            | University of Washington                              | Becoming Better Allies: A Humanistic Reflection Upon Urban Artificial Intelligence                                     |
 | 1150 | 1220 | short lunch break  |                                                       |                                                                                                                        |
 | 1220 | 1240 | Wenwen Li          | Arizona State University                              | Real-time GeoAI for Smart Cities                                                                                       |
-| 1240 | 100  | Chao Fan           | Civil and Environmental Engineering/TAMU              | Integrated Intelligence for Design of Resilient and Equitable Urban Spaces                                             |
+| 1240 | 100  | Chao Fan           | Civil & Environmental Engineering/TAMU              | Integrated Intelligence for Design of Resilient and Equitable Urban Spaces                                             |
 | 100  | 120  | Bahar Dadashova    | Texas A&M Transportation Institute                    | Building Equitable Safe Streets for All: Data-Driven Approach and Computational Tools                                  |
 | 120  | 140  | Jason Wu           | Texas A&M Transportation Institute                    | Leveraging Emerging Data and AI Technologies to Enhance Transportation Infrastructures                                 |
 | 140  | 200  | Mark Fossett       | Sociology/TAMU                                        | Fine-scale Data and Social Science Research                                                                            |
-| 200  | 220  | Xinyue Ye          | Landscape Architecture and Urban Planning/TAMU        | Summary and Next-Step                                                                                                  |               
+| 200  | 220  | Xinyue Ye          | Landscape Architecture & Urban Planning/TAMU        | Summary and Next-Step                                                                                                  |               
 
 
 ![[the logo of The Texas A&M Institute of Data Science](https://tamids.tamu.edu/)](tamuids.png "tamuids")
