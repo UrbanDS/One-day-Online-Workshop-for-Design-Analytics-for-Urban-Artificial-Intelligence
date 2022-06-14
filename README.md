@@ -14,6 +14,8 @@ It is free to register: [https://forms.gle/rbuCGeJfviqApifY9](https://forms.gle/
 
 You will receive the zoom information after registration.
 
+Contact us for questions or collaboration: xinyue.ye@tamu.edu
+
 ## Agenda
 
 | Time |      | Name               | Affiliation                                           | Talk Title                                                                                                             |
