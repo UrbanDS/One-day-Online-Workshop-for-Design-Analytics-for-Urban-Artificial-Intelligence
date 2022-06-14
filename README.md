@@ -8,16 +8,12 @@ Advancements in location-aware technology, information and communication technol
 
 ## Registration 
 
-use this link to register:
+This is a virtual workshop. 
+
+It is free to register:
 https://forms.gle/rbuCGeJfviqApifY9
 
-## Zoom
-
-Meeting ID: 977 1108 9639
-Passcode: 315432
-
-or 
-[click here](https://tamu.zoom.us/j/97711089639?pwd=OGdLSUI2ZktQTnZla3FObUxUaSt0dz09)
+You will receive the zoom information after registration.
 
 ## Agenda
 
