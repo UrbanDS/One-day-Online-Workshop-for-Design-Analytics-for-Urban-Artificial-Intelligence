@@ -30,7 +30,7 @@ TBD
 | 1320  | 1340  | [Jason Wu](https://tti.tamu.edu/people/resume/?pid=7919)           | Texas A&M Transportation Institute                    | Leveraging Emerging Data and AI Technologies to Enhance Transportation Infrastructures                                 |
 | 1340  | 1400  | [Mark Fossett](https://liberalarts.tamu.edu/sociology/profile/mark-fossett/)       | Sociology/TAMU                                        | Advantages of working with Detailed Microdata over Aggregated Data in Social Science Research                                                                     |
 | 1400  | 1420  | [Ceyhun Eksin](https://engineering.tamu.edu/industrial/profiles/eksin-ceyhun.html)       | Industrial & Systems Engineering/TAMU                                      | Epidemic Models with Social Distancing Behavior                                                                          |
-| 1340  | 1400  | [Gengchen Mai](https://gengchenmai.github.io/)      | Computer Science/Stanford University                                      | Narrative Cartography with Knowledge Graphs                                                                            |
+| 1420  | 1440  | [Gengchen Mai](https://gengchenmai.github.io/)      | Computer Science/Stanford University                                      | Narrative Cartography with Knowledge Graphs                                                                            |
 | 1440  | 1500  | [Xinyue Ye](https://www.arch.tamu.edu/staff/xinyue-ye/)          | Landscape Architecture & Urban Planning/TAMU        | Summary and Next-Step                                                                                                  |               
 
 
