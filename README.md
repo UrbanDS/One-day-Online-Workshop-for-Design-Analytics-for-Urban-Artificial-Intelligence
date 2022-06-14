@@ -10,8 +10,7 @@ Advancements in location-aware technology, information and communication technol
 
 This is a virtual workshop. 
 
-It is free to register:
-https://forms.gle/rbuCGeJfviqApifY9
+It is free to register:[https://forms.gle/rbuCGeJfviqApifY9](https://forms.gle/rbuCGeJfviqApifY9)
 
 You will receive the zoom information after registration.
 
