@@ -6,6 +6,11 @@ Advancements in location-aware technology, information and communication technol
 ## Time
 9am-3pm CT on June 24 (Friday) 2022
 
+## Registration 
+
+use this link to register:
+https://forms.gle/rbuCGeJfviqApifY9
+
 ## Zoom
 
 Meeting ID: 977 1108 9639
