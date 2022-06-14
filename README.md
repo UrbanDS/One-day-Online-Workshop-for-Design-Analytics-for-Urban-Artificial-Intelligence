@@ -7,7 +7,12 @@ Advancements in location-aware technology, information and communication technol
 9am-3pm CT on June 24 (Friday) 2022
 
 ## Zoom
-TBD
+
+Meeting ID: 977 1108 9639
+Passcode: 315432
+
+or 
+[click here](https://tamu.zoom.us/j/97711089639?pwd=OGdLSUI2ZktQTnZla3FObUxUaSt0dz09)
 
 ## Agenda
 
